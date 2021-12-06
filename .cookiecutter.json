@@ -1,0 +1,12 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "John San Soucie",
+  "development_status": "Development Status :: 2 - Pre-Alpha",
+  "email": "jsansoucie@whoi.edu",
+  "friendly_name": "ROST Python Bindings",
+  "github_user": "san-soucie",
+  "license": "GPL-3.0",
+  "package_name": "pyrost",
+  "project_name": "pyrost",
+  "version": "0.1.0"
+}
